@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FirebaseAgenda</string>
+    <string name="Alta">Alta contacto</string>
+    <string name="Mostrar">Mostrar contactos</string>
+    <string name="altanombre">Escribe el nombre del contacto</string>
+    <string name="altaEmail">Escribe el email del contacto</string>
+</resources>
